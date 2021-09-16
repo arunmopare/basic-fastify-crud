@@ -1,0 +1,1 @@
+this is a basic fastify crud oparations project using mongoDB as DB
